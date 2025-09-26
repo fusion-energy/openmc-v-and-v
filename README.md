@@ -60,6 +60,7 @@ Ideally, the SINBAD suite should exist in both **CSG and CAD formats** for every
 
 While the target is to eventually cover the entire SINBAD suite, prioritization will be necessary, focusing on benchmarks that provide high value and ease of implementation.
 
+https://github.com/PhoenixNuclearLabs/SHINE-Source-Terms
 ---
 ## References
 
